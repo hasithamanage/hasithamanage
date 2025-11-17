@@ -7,34 +7,62 @@
 ---
 
 ## 🚀 Professional Focus & Experience
--  **Backend & Full-Stack Development:** Currently mastering **.NET (C#)**, **PHP/Laravel** and **Python/Django** to build scalable, production-ready applications.
--  **Foundational Expertise:** Strong theoretical and practical foundation from the Industrial Diploma in Software Development.
--  **Technical Support & Automation:** Proven experience in Technical Support and implementing **automation scripts** to enhance efficiency.
--  **Continuous Learner:** Actively exploring open-source contributions and cloud technologies like **Docker** and **Microsoft Azure** for robust deployment strategies.
 
+I’m passionate about designing scalable, maintainable backend solutions. With a solid foundation from GRADIA Jyväskylä Educational Consortium, real-world technical support experience, and a focus on continuous learning, I enjoy turning ideas into production-ready applications and collaborating on impactful projects.
 
 ---
 
 ## 💻 Core Technology Stack
 
-| Category | Technologies | Key Focus Areas |
-| :--- | :--- | :--- |
-| **Backend** | C#, PHP, JavaScript, Python | **OOP**, RESTful API Design, Server-side logic |
-| **Frameworks** | **ASP.NET / .NET**, **Laravel**, CodeIgniter, *Django* | Building secure, high-performance **MVC** and web API applications. |
-| **Database** | **MySQL** | Design, **SQL** query optimization, and Relational Modeling. |
-| **Cloud & DevOps** | **Microsoft Azure**, **Docker** | Containerization, Cloud Deployment, and CI/CD principles. |
+| Category         | Technologies                      | Key Focus Areas                                        |
+|:-----------------|:----------------------------------|:--------------------------------------------------------|
+| **Backend**      | `C#`, `PHP`, `JavaScript`, `Python` | OOP, RESTful APIs, server-side logic                    |
+| **Frameworks**   | `ASP.NET / .NET`, `Laravel`, `CodeIgniter`, `Django` | Secure, high-performance MVC & web API apps             |
+| **Database**     | `MySQL`                           | SQL query optimization, relational data modeling         |
+| **Cloud & DevOps** | `Microsoft Azure`, `Docker`      | Containerization, cloud deployment, CI/CD principles     |
 
 ---
-## 🤝 Let's Connect & Collaborate
 
+## 🌟 Featured Project
+
+### [BitcoinTracker](https://github.com/hasithamanage/BitcoinTracker)
+_Simple WPF app to monitor Bitcoin prices._
+
+- **Tech:** C#, WPF, REST APIs
+- Designed with a clean user interface and modular, readable architecture.
+
+---
+
+## ⚡ Professional Experience & Education
+
+- **Technical Support & Automation:**
+  - Hands-on experience troubleshooting, scripting, and improving workflows.
+  - Implemented automation scripts to enhance team efficiency.
+- **Education:**
+  - Vocational qualification in Information and Communications Technology, GRADIA Jyväskylä Educational Consortium.
+
+---
+
+## 📈 Learning & Growth
+
+- Exploring advanced backend topics (.NET Core, Django, cloud deployment)
+- Practicing scalable design and CI/CD using Azure & Docker
+- Actively exploring open-source contributions
+
+---
+## 📫 Let’s Connect!
 - **Seeking:** Training opportunities and Junior Developer roles in the Jyväskylä area focused on **.NET**, **PHP/Laravel** or **Python/Django** development.
-- **Email:** hasithahimakara@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/hasithamanage/]
-- **Projects:** See my pinned repositories below for code samples demonstrating C#/.NET and Azure implementations.
+- **Email:** hasithamanage@gmail.com
+- **Featured Projects:** See my pinned repositories below for code samples demonstrating C#/.NET and Azure implementations.
 
+---
 
+## ☕ Fun Fact
 
+I love learning new technologies, solving real-world problems, and collaborating in welcoming developer communities.
 
+---
+> **Open for opportunities:** Motivated junior backend developer ready to learn and contribute!
 
 
 <!--<p align="left">-->
