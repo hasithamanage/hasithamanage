@@ -16,8 +16,8 @@ I’m passionate about designing scalable, maintainable backend solutions. With 
 
 | Category         | Technologies                      | Key Focus Areas                                        |
 |:-----------------|:----------------------------------|:--------------------------------------------------------|
-| **Backend**      | `C#`, `PHP`, `JavaScript`, `Python` | OOP, RESTful APIs, server-side logic                    |
-| **Frameworks**   | `ASP.NET / .NET`, `Laravel`, `CodeIgniter`, `Django` | Secure, high-performance MVC & web API apps             |
+| **Backend**      | `C#`, `PHP`, `JavaScript`, `Python`, `Dart`  | OOP, RESTful APIs, server-side logic                    |
+| **Frameworks**   | `ASP.NET / .NET`, `Laravel`, `Django`, `Flutter` | Secure, high-performance MVC & web/mobile API apps             |
 | **Database**     | `MySQL`                           | SQL query optimization, relational data modeling         |
 | **Cloud & DevOps** | `Microsoft Azure`, `Docker`      | Containerization, cloud deployment, CI/CD principles     |
 
@@ -47,22 +47,38 @@ _Simple WPF app to monitor Bitcoin prices._
 
 - Exploring advanced backend topics (.NET Core, Django, cloud deployment)
 - Practicing scalable design and CI/CD using Azure & Docker
+- Learning cross-platform mobile development using Flutter & Dart
 - Actively exploring open-source contributions
 
 ---
 ## 📫 Let’s Connect!
-- **Seeking:** Training opportunities and Junior Developer roles in the Jyväskylä area focused on **.NET**, **PHP/Laravel** or **Python/Django** development.
-- **Email:** hasithamanage@gmail.com
-- **Featured Projects:** See my pinned repositories below for code samples demonstrating C#/.NET and Azure implementations.
+
+- **LinkedIn:** [linkedin.com/in/hasithamanage](https://linkedin.com/in/hasithamanage)
+- **Email:** hasithahimakara@gmail.com
+- **Seeking:** Junior Developer/trainee opportunities in Jyväskylä area (.NET, PHP/Laravel, Python/Django, Flutter/Dart).
 
 ---
 
-## ☕ Fun Fact
 
-I love learning new technologies, solving real-world problems, and collaborating in welcoming developer communities.
-
----
 > **Open for opportunities:** Motivated junior backend developer ready to learn and contribute!
+
+---
+<!-- Visual Skills / Badges -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt="ASP.NET" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="45" height="45"/>
+  <!-- Flutter and Dart Badges -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+</p>
 
 
 <!--<p align="left">-->
