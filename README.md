@@ -23,7 +23,7 @@ I’m passionate about designing scalable, maintainable backend solutions. With 
 
 ---
 
-## 🌟 Featured Project
+## :gear: Featured Project
 
 ### [BitcoinTracker](https://github.com/hasithamanage/BitcoinTracker)
 _Simple WPF app to monitor Bitcoin prices._
@@ -57,10 +57,7 @@ _Simple WPF app to monitor Bitcoin prices._
 - **Email:** hasithahimakara@gmail.com
 - **Seeking:** Junior Developer/trainee opportunities in Jyväskylä area (.NET, PHP/Laravel, Python/Django, Flutter/Dart).
 
----
 
-
-> **Open for opportunities:** Motivated junior backend developer ready to learn and contribute!
 
 ---
 <!-- Visual Skills / Badges -->
@@ -80,6 +77,10 @@ _Simple WPF app to monitor Bitcoin prices._
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
 </p>
 
+---
+
+
+> **Open for opportunities:** Motivated junior backend developer ready to learn and contribute!
 
 <!--<p align="left">-->
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>-->
