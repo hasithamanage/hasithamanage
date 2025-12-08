@@ -6,13 +6,6 @@
 
 ---
 
-## 🚀 Professional Focus & Experience
-
-
-I’m passionate about designing scalable, maintainable enterprise solutions with a solid foundation from GRADIA Jyväskylä Educational Consortium and real-world technical support experience.
-
----
-
 ## 💻 Core Technology Stack
 
 | Category | Technologies | Focus |
