@@ -8,7 +8,8 @@
 
 ## 🚀 Professional Focus & Experience
 
-I’m passionate about designing scalable, maintainable enterprise solutions. With a solid foundation from GRADIA Jyväskylä Educational Consortium, real-world technical support experience and a focus on continuous learning, I enjoy turning ideas into production-ready applications and collaborating on impactful projects.
+
+I’m passionate about designing scalable, maintainable enterprise solutions with a solid foundation from GRADIA Jyväskylä Educational Consortium and real-world technical support experience.
 
 ---
 
