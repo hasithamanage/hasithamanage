@@ -1,8 +1,8 @@
 # Hasitha Manage
 
-`Full-Stack Software Developer focused on .NET, Vue and Cloud Deployment`
+`Software Developer focused on full-stack development, backend programming and DevOps practices`
 
-`📍 Jyväskylä, Finland - looking for training / työharjoittelu opportunity`
+`📍 Jyväskylä, Finland`
 
 ---
 
@@ -25,7 +25,7 @@ I’m passionate about designing scalable, maintainable enterprise solutions wit
 
 ---
 
-## ⚙️ Featured Project
+## 📁 Featured Project
 
 ### [KiltaSphere](https://github.com/hasithamanage/KiltaSphere)
 _Full-stack enterprise application for member management, communication logging and payment tracking (similar to systems used by Finnish unions & organizations)_
