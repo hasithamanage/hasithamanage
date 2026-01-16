@@ -10,11 +10,11 @@
 
 | Category | Technologies | Focus |
 |:---|:---|:---|
-| **Frontend** | `Vite`, `React`, `TypeScript`, `Vue`, `CSS` | SPA development, responsive UI |
-| **Backend** | `C#`, `.NET 8`, `ASP.NET Core Web API` | Secure, scalable REST APIs |
-| **Database** | `MS SQL`, `Entity Framework Core` | Relational modeling & migrations |
-| **Cloud & DevOps** | `Docker`, `Azure` | Containerization & deployment |
-| **Additional Experience** | `Flutter`, `Dart` | General development & prototypes |
+| **Backend** | `.NET 8`, `ASP.NET Core`, `C#` | **Clean Architecture**, RESTful APIs, Middleware & DI |
+| **Frontend** | `React`, `TypeScript`, `Vue`, `Vite` | **Modular Component Design**, Custom Hooks, SPA |
+| **Data** | `SQL Server`, `EF Core`, `PostgreSQL` | **Repository Pattern**, Migrations, Relational Modeling |
+| **Cloud & DevOps** | `Docker`, `Azure`, `GitHub Actions` | Containerization, CI/CD, Cloud-native deployment |
+| **Mobile & Cross** | `Flutter`, `Dart` | Hybrid mobile development & Rapid Prototyping |
 
 ---
 
